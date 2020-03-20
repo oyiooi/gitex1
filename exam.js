@@ -7,3 +7,7 @@ function seconds(){
 function third(){
 	console.log('增加内容')
 }
+
+function addNewFunction (){
+	console.log('新增功能')
+}
