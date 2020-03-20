@@ -4,4 +4,6 @@ function first(){
 function seconds(){
 	console.log('重新修改')
 }
-
+function third(){
+	console.log('增加内容')
+}
