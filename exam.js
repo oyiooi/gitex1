@@ -9,5 +9,8 @@ function third(){
 }
 
 function addNewFunction (){
-	console.log('新增功能')
+	console.log('新增功能,一点修改')
+}
+function anthorNewFunction(){
+	console.log('增加功能')
 }
